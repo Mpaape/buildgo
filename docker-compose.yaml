@@ -1,0 +1,7 @@
+
+version: "3.9"
+services:
+
+  fullcyclego:
+    image:  mpaape/fullcycle
+    command:  ./app/main.go
